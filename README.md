@@ -1,6 +1,6 @@
-# GFG SFI
+# GFG HFH
 
-Quad's Team repo for GFG's Solving for India Hackathon
+GFG's Hack for Health Hackathon
 
 We have successfully implemented
 
@@ -28,7 +28,4 @@ Backend:
 - Flask
 - MongoDB
 
-Team Memebers - <br />
-Kunal Agrawal [LinkedIn](https://www.linkedin.com/in/kunalragrawal/) <br />
 Ganesh Utla [LinkedIn](https://www.linkedin.com/in/ganesh-utla-888abc/) <br />
-Deexith Madas [LinkedIn](https://www.linkedin.com/in/deexith-madas-625283208/) <br />
