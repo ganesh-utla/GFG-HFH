@@ -2,6 +2,8 @@
 
 GFG's Hack for Health Hackathon
 
+MediCall is a comprehensive web application that connects patients with the right doctors and helps in finding the perfect doctor, scheduling appointments, and accessing prescriptions. Patients can choose their preferred doctors from a comprehensive table, which lists doctors affiliated with various hospitals and specializing in different fields. It offers over 3 healthcare services such as live video consultations, disease prediction, a pharmacy store for medicine purchases, and an additional facility for conveniently paying using the MediCall wallet, which is rechargeable via secure payments.
+
 We have successfully implemented
 
 - Video calling facility for instant and Scheduled meet
