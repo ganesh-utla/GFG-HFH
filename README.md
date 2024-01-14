@@ -30,4 +30,7 @@ Backend:
 - Flask
 - MongoDB
 
+Team Members - <br />
+Kunal Agrawal [LinkedIn](https://www.linkedin.com/in/kunalragrawal/) <br />
 Ganesh Utla [LinkedIn](https://www.linkedin.com/in/ganesh-utla-888abc/) <br />
+Deexith Madas [LinkedIn](https://www.linkedin.com/in/deexith-madas-625283208/) <br />
