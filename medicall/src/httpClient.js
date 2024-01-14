@@ -1,6 +1,6 @@
 import axios from "axios";
-// const url = (process.env.NODE_ENV === 'development' ? "http://127.0.0.1:5000" : "https://gfg-medicall-backend.onrender.com");
-const url = "http://127.0.0.1:5000";
+
+const url = "https://hfh-backend.onrender.com";
 
 export default axios.create({
   withCredentials: true,
