@@ -161,7 +161,7 @@ const AccountForm = () => {
                                             {isSignupVisible ? 'Login' : 'Create an account'}
                                         </button>
                                     </p>
-                                    <p>Demo Doctor Login Credentials: {email: test.doctor@gmail.com, password: 11223344}</p>
+                                    <p>{`Demo Doctor Login Credentials: {email: test.doctor@gmail.com, password: 11223344}`}</p>
                                 </div>
 
                                 {/*===== Form-Body =====*/}
